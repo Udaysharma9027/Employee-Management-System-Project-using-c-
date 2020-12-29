@@ -1,0 +1,4 @@
+101,John Alter,75,75,100,jdoe@gmail.com
+102,Micheal Trevor,75,75,90,mt@gmail.com
+401,John Rambo,100,100,150,john@yahoo.co.in
+301,R.K.Sharma,150,150,100,rksharma12@gmail.com
